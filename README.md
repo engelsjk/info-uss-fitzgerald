@@ -64,10 +64,10 @@ Based on initial reports, the damaged area of the <i>Fitzgerald</i> below the wa
 <a href="https://news.usni.org/2017/06/21/investigators-believe-uss-fitzgerald-crew-fought-flooding-for-an-hour-before-distress-call-reached-help" target="_blank">https://news.usni.org/2017/06/21/investigators-believe-uss-fitzgerald-crew-fought-flooding-for-an-hour-before-distress-call-reached-help</a>
 
 "USS Fitzgerald and MV ACX Crystal Collision", Wikipedia<br>
-<a href="https://en.wikipedia.org/wiki/USS_Fitzgerald_and_MV_ACX_Crystal_collision" target="blank">https://en.wikipedia.org/wiki/USS_Fitzgerald_and_MV_ACX_Crystal_collision</a>
+<a href="https://en.wikipedia.org/wiki/USS_Fitzgerald_and_MV_ACX_Crystal_collision" target="_blank">https://en.wikipedia.org/wiki/USS_Fitzgerald_and_MV_ACX_Crystal_collision</a>
 
 "HOW COULD THIS HAPPEN? THE FITZGERALD, THE U.S. NAVY, AND COLLISIONS AT SEA"<br>by Bryan Mcgrath for War On The Rocks<br>
-<a href="https://warontherocks.com/2017/06/how-could-this-happen-the-fitzgerald-the-u-s-navy-and-collisions-at-sea/" target="blank">https://warontherocks.com/2017/06/how-could-this-happen-the-fitzgerald-the-u-s-navy-and-collisions-at-sea/</a>
+<a href="https://warontherocks.com/2017/06/how-could-this-happen-the-fitzgerald-the-u-s-navy-and-collisions-at-sea/" target="_blank">https://warontherocks.com/2017/06/how-could-this-happen-the-fitzgerald-the-u-s-navy-and-collisions-at-sea/</a>
 
 "Maritime Mystery: Why a U.S. Destroyer Failed to Dodge a Cargo Ship"<br>by Scott Shane for NYT<br>
 <a href="https://www.nytimes.com/2017/06/23/world/asia/destroyer-fitzgerald-collision.html" target="_blank">https://www.nytimes.com/2017/06/23/world/asia/destroyer-fitzgerald-collision.html</a>
