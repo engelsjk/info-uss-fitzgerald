@@ -6,11 +6,26 @@ After hearing news of this incident, I was saddened and curious about what might
 
 <h1>USS <i>Fitzgerald</i></h1>
 
+<img src="images/ussfitzgerald-14.jpg" height="300px" width="auto">
+
+The USS <i>Fitzgerald</i> (DDG-62) is a Flight I <i>Arleigh Burke</i>-class destroyer, commissioned by the USN in 1995. It is 154 meters long, displaces about 9000 tons full, has a draft of 9.4 meters and a crew of more than 200 sailors.  
+
 <h1>MV <i>ACX Crystal</i></h1>
+
+<img src="images/acxcrystal-10.jpg" height="300px" width="auto">
+
+The MV <i>ACX Crystal</i> is a Phillipine-owned container ship built in South Korea in 2008. It is 222.6 meters long, with a deadweight of 39,565 tons, a capacity of 2858 TEU, draft of 12 meters and a crew of 20. 
 
 <h1>Size Comparison</h1>
 
+
 <h1>Additional Reading</h1>
+
+"Investigators Believe USS Fitzgerald Crew Fought Flooding For An Hour Before Distress Call Reached Help"<br>by Sam LaGrone for USNI<br>
+<a href="https://news.usni.org/2017/06/21/investigators-believe-uss-fitzgerald-crew-fought-flooding-for-an-hour-before-distress-call-reached-help" target="_blank">https://news.usni.org/2017/06/21/investigators-believe-uss-fitzgerald-crew-fought-flooding-for-an-hour-before-distress-call-reached-help</a>
+
+"USS Fitzgerald and MV ACX Crystal Collision", Wikipedia<br>
+<a href="https://en.wikipedia.org/wiki/USS_Fitzgerald_and_MV_ACX_Crystal_collision" target="blank">https://en.wikipedia.org/wiki/USS_Fitzgerald_and_MV_ACX_Crystal_collision</a>
 
 "HOW COULD THIS HAPPEN? THE FITZGERALD, THE U.S. NAVY, AND COLLISIONS AT SEA"<br>by Bryan Mcgrath for War On The Rocks<br>
 <a href="https://warontherocks.com/2017/06/how-could-this-happen-the-fitzgerald-the-u-s-navy-and-collisions-at-sea/" target="blank">https://warontherocks.com/2017/06/how-could-this-happen-the-fitzgerald-the-u-s-navy-and-collisions-at-sea/</a>
