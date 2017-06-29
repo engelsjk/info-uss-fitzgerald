@@ -32,7 +32,23 @@ One thing to note in the above photograph is how the <i>ACX Crystal</i> appears 
 
 In reviewing photographs of the two ships and reading comparisons of their respective specifications, I could not find a visual comparison of the ships to help visualize both the collision and the cause of damage. I then attempted a simplistic comparison of the relative sizes of these two ships, while also highlighting the damaged areas.
 
+I first found a detailed illustration of a Flight I <i>Arleigh Burke</i>-class destroyer to represent the USS <i>Fitzgerald</i>.
+
+<img src="images/arleighburke-6.jpg" height="300px" width="auto">
+
+For the <i>ACX Crystal</i>, I was unable to a find a detailed illustration of the ship but I was able to find an illustration of a similarly sized container ship with a capacity of 2824 TEU (compared to the <i>AC Crystal</i>'s capacity of 2858 TEU.
+
+<img src="images/container-ship-2824TEU.jpg" height="300px" width="auto">
+
+
+
 <img src="comparison-ussfitzgerald-acxcrystal.png" height="auto" width="1200px">
+
+In the image above, I attempted to show the following...
+
+<ul>
+<li>Relative size of the two ships by scaling 
+</ul>
 
 <h1>Additional Reading</h1>
 
