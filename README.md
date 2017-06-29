@@ -16,8 +16,23 @@ The USS <i>Fitzgerald</i> (DDG-62) is a Flight I <i>Arleigh Burke</i>-class dest
 
 The MV <i>ACX Crystal</i> is a Phillipine-owned container ship built in South Korea in 2008. It is 222.6 meters long, with a deadweight of 39,565 tons, a capacity of 2858 TEU, draft of 12 meters and a crew of 20. 
 
+<h1>Damage</h1>
+
+<img src="images/ussfitzgerald-6.jpg" height="300px" width="auto">
+
+During the collision, the USS <i>Fitzgerald</i> was struck and damaged on its starboard side, while the MV <i>ACX Crystal</i> was struck and damaged on its port side. The <i>Fitzgerald</i> suffered significant damage above and below the water line and likely began taking on water immediately. Additional details on the aftermath of the collision can be found in the additional reading linked below.
+
+Damage to the significantly larger MV <i>ACX Crystal</i> appears to be much less, with the only visibile damage being the slightly bent hull on the port side near the bow.
+
+<img src="images/acxcrystal-4.jpg" height="300px" width="auto">
+
+One thing to note in the above photograph is how the <i>ACX Crystal</i> appears to be running at a relatively high draft, indicating that the ship was not running at max capacity. This is speculation however based on my limited naval knowledge.
+
 <h1>Size Comparison</h1>
 
+In reviewing photographs of the two ships and reading comparisons of their respective specifications, I could not find a visual comparison of the ships to help visualize both the collision and the cause of damage. I then attempted a simplistic comparison of the relative sizes of these two ships, while also highlighting the damaged areas.
+
+<img src="comparison-ussfitzgerald-acxcrystal.png" height="auto" width="1200px">
 
 <h1>Additional Reading</h1>
 
