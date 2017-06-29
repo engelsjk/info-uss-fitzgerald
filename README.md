@@ -28,7 +28,7 @@ Damage to the significantly larger MV <i>ACX Crystal</i> appears to be much less
 
 One thing to note in the above photograph is how the <i>ACX Crystal</i> appears to be running at a relatively high draft, indicating that the ship was not running at max capacity. This is speculation however based on my limited naval knowledge.
 
-<h1>Size Comparison</h1>
+<h1>Size and Damage Comparison</h1>
 
 In reviewing photographs of the two ships and reading comparisons of their respective specifications, I could not find a visual comparison of the ships to help visualize both the collision and the cause of damage. I then attempted a simplistic comparison of the relative sizes of these two ships, while also highlighting the damaged areas.
 
@@ -38,18 +38,25 @@ I first found a detailed illustration of a Flight I <i>Arleigh Burke</i>-class d
 
 For the <i>ACX Crystal</i>, I was unable to a find a detailed illustration of the ship but I was able to find an illustration of a similarly sized container ship with a capacity of 2824 TEU (compared to the <i>AC Crystal</i>'s capacity of 2858 TEU.
 
-<img src="images/container-ship-2824TEU.png" height="300px" width="auto">
+<img src="images/container-ship-2824TEU.png" height="250px" width="auto">
 
-
-
+Next, I simply scaled the size of the ships by their actual lengths (154 meters and 222.6 meters) relative to an estimated bow-to-stern length from their illustrations. No adjustments were made to estimate the relative height of the ships.
 
 <img src="comparison-ussfitzgerald-acxcrystal.png" height="auto" width="1200px">
 
-In the image above, I attempted to show the following...
+In the image above, I also attempted to show the following...
 
 <ul>
-<li>Relative size of the two ships by scaling 
+<li>Estimated draft of the MV <i>ACX Crystal</i> estimated from photographs.</li>
+<li>The rough area (above and below the waterline) of the <i>ACX Crystal</i> that would have impacted the <i>Fitzgerald</i>, highlighted in green and red on the <i>Fitzgerald</i>.
+<li>The areas of damage on both the <i>Fitzgerald</i> and the <i>ACX Crystal</i>, highlighted in yellow, as estimated from the photographs of both ships.
 </ul>
+
+<h1>Notes</h1>
+
+In reviewing this visual comparison, the relative size of these ships is much more apparent. Additionally, the extent of the damage to the <i>Fitzgerald</i> takes on new light, especially in consideration of what appears to be the small draft of the <i>ACX Crystal</i> at the time of the collision (at least based on a rough estimate of ship size comparison, draft levels, and damage locations).  
+
+Based on initial reports, the damaged area of the <i>Fitzgerald</i> below the waterline included the berthing quarters, damage which resulted in the deaths of seven sailors. And of particular note in the above comparison is the likely impact that the bulbous bow of the <i>ACX Crystal</i> had on the structure of the <i>Fitzgerald</i> below the waterline, possibily exacerbated by the small draft of the <i>ACX Crystal</i>. 
 
 <h1>Additional Reading</h1>
 
@@ -68,7 +75,7 @@ In the image above, I attempted to show the following...
 Bryan McGrath, Twitter Thread - June 16, 2017<br>
 <a href="https://twitter.com/ConsWahoo/status/875860087683907584" target="_blank">https://twitter.com/ConsWahoo/status/875860087683907584</a>
 
-Also, in looking up information on this incident, I came across some interesting Twitter accounts on Naval and Defense news that I started following.
+Also, in looking up information on this incident, I came across some interesting Twitter accounts on naval and defense news that I started following.
 <ul>
 <li><a href="https://twitter.com/ConsWahoo" target="_blank">@ConsWahoo</a></li>
 <li><a href="https://twitter.com/HerbCarmen" target="_blank">@HerbCarmen</a></li>
