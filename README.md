@@ -38,11 +38,8 @@ I first found a detailed illustration of a Flight I <i>Arleigh Burke</i>-class d
 
 For the <i>ACX Crystal</i>, I was unable to a find a detailed illustration of the ship but I was able to find an illustration of a similarly sized container ship with a capacity of 2824 TEU (compared to the <i>AC Crystal</i>'s capacity of 2858 TEU.
 
-<<<<<<< HEAD
-<img src="images/container-ship-2824TEU.jpg" height="300px" width="auto">
-=======
 <img src="images/container-ship-2824TEU.png" height="300px" width="auto">
->>>>>>> 16c3fb9ac811b821f523899fab09a041f71fcaa2
+
 
 
 
